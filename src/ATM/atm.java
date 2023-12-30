@@ -5,3 +5,4 @@ public interface atm {
      boolean deposit(int amount);
      boolean checkbalance();
 }
+
