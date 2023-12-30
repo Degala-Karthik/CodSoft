@@ -59,7 +59,7 @@ public class Main {
             System.out.println("Please Choose Correctly");
         }
         System.out.println("ThankYou");
-        System.out.println("Kundan Sai Ponugumati");
+        System.out.println("Degala Sree Karthik");
         System.exit(0);
     }
 }
